@@ -953,7 +953,8 @@ Contributors need to approve the [Contributor License Agreement](https://docs.go
 ### Redis Server builds for Windows
   
   * [Redis on Windows](https://github.com/ServiceStack/redis-windows)
-  * [MS Open Tech - Redis on Windows](https://github.com/MSOpenTech/Redis)
+  * [Redis 5.0.10 for Windows - maintained OSS port of MS Open Tech](https://github.com/tporadowski/redis/)
+  * [Memurai - Redis on Windows, derived from MS Open Tech (now defunct); commercial with free developer edition](https://www.memurai.com)
   * [Downloads for Cygwin 32bit Redis Server Windows builds](http://code.google.com/p/servicestack/wiki/RedisWindowsDownload).
   * [Project that lets you run Redis as a Windows Service](https://github.com/rgl/redis)
   * [Another Redis as a Windows Service project, which allows you to run separate service for each Redis instance](https://github.com/kcherenkov/redis-windows-service)
